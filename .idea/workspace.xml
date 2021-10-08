@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Inserido link para o Curso&#10;&#10;close #2" />
+    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Inserida lista de módulos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +115,7 @@
     <MESSAGE value="Adicionada informação sobre o curso" />
     <MESSAGE value="Inserido link para o Curso&#10;&#10;close #2" />
     <MESSAGE value="Sei lá...." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sei lá...." />
+    <MESSAGE value="Inserida lista de módulos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserida lista de módulos" />
   </component>
 </project>
