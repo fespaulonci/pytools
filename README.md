@@ -8,4 +8,4 @@ Link para o curso: [Python PRO](https://www.pythonpro.com.br)
 Lista de Módulos:
 1. Git;
 2. Virtual Env;
-3. Pip.
+3. Pip. 
