@@ -23,7 +23,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="3" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633670838202</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Sei lá....">
+      <created>1633671922533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633671922533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionada informação sobre o curso" />
     <MESSAGE value="Inserido link para o Curso&#10;&#10;close #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserido link para o Curso&#10;&#10;close #2" />
+    <MESSAGE value="Sei lá...." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sei lá...." />
   </component>
 </project>
