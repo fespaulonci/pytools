@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Inserida lista com os primeiros módulos" />
+    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Lista de módulos enumerada&#10;close #8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/master" />
-  </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="upstream/master" />
   </component>
   <component name="Git.Settings">
-    <excluded-from-favorite>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="master" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </excluded-from-favorite>
     <favorite-branches>
       <branch-storage>
         <map>
@@ -42,7 +28,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="4" />
+        <entry key="$PROJECT_DIR$" value="b" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -116,35 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633671922533</updated>
     </task>
-    <task id="LOCAL-00008" summary="Sei lá....">
-      <created>1633672332836</created>
+    <task id="LOCAL-00008" summary="??????">
+      <created>1633674406693</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1633672332836</updated>
+      <updated>1633674406693</updated>
     </task>
-    <task id="LOCAL-00009" summary="Sei lá....">
-      <created>1633672492185</created>
+    <task id="LOCAL-00009" summary="Lista de módulos enumerada&#10;close #8">
+      <created>1633674448859</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1633672492185</updated>
+      <updated>1633674448859</updated>
     </task>
-    <task id="LOCAL-00010" summary="Inserida lista com os primeiros módulos">
-      <created>1633673657604</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1633673657604</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Inserida lista com os primeiros módulos">
-      <created>1633673825158</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1633673825158</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,7 +134,9 @@
     <MESSAGE value="Adicionada informação sobre o curso" />
     <MESSAGE value="Inserido link para o Curso&#10;&#10;close #2" />
     <MESSAGE value="Sei lá...." />
-    <MESSAGE value="Inserida lista com os primeiros módulos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inserida lista com os primeiros módulos" />
+    <MESSAGE value="Inserida lista de módulos" />
+    <MESSAGE value="??????" />
+    <MESSAGE value="Lista de módulos enumerada&#10;close #8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lista de módulos enumerada&#10;close #8" />
   </component>
 </project>
