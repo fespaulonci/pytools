@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Sei lá...." />
+    <list default="true" id="83f128f3-ec58-4e06-bac8-68bb19aa5c7a" name="Default Changelist" comment="Inserida lista com os primeiros módulos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="upstream/master" />
@@ -127,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633672492185</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Inserida lista com os primeiros módulos">
+      <created>1633673657604</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1633673657604</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Inserida lista com os primeiros módulos">
+      <created>1633673825158</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633673825158</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +162,7 @@
     <MESSAGE value="Adicionada informação sobre o curso" />
     <MESSAGE value="Inserido link para o Curso&#10;&#10;close #2" />
     <MESSAGE value="Sei lá...." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sei lá...." />
+    <MESSAGE value="Inserida lista com os primeiros módulos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserida lista com os primeiros módulos" />
   </component>
 </project>
